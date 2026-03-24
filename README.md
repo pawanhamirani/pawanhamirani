@@ -1,24 +1,25 @@
 
 ---
 
-# 💻 2. Clean Professional Developer Style
+# 🚀 3. Modern Animated Style (Badges + Stats)
 ```markdown
-# Project Name
+# 🚀 Project Name
 
-## 📌 Overview
-Short description of what your project does.
+![GitHub stars](https://img.shields.io/github/stars/username/repo?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/username/repo?style=for-the-badge)
 
-## 🚀 Features
-- Feature 1
-- Feature 2
-- Feature 3
+## 🌟 About
+This project is awesome because...
 
-## 🛠️ Tech Stack
-- React
-- Node.js
-- MongoDB
+## 🧰 Built With
+- ⚛️ React
+- 🎨 Tailwind CSS
+- 🔥 Firebase
 
-## 📦 Installation
+## 📈 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=yourname)
+
+## 🛠️ Setup
 ```bash
+git clone repo
 npm install
-npm start
