@@ -1,20 +1,29 @@
-<h1 align="center">🖤 Pawan.exe 🖤</h1>
+
+---
+
+# 🎨 4. Stylish Animated README
+```md
+# ✨ Project Name
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&lines=Dark+Developer;Code+in+Silence;Mind+Reader;Living+in+Shadows" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=30&center=true&vCenter=true&width=500&lines=Welcome+to+My+Project;Dark+Theme+Developer;Building+Cool+Stuff" />
 </p>
 
----
+## 💡 About
+A modern and stylish project with animations.
 
-## 🕯️ About Me
-- 🧠 Mind > Matter  
-- 🌑 I prefer darkness over light  
-- 🕷️ Coding in silence like Wednesday Addams  
-- 💀 Emotionless but powerful  
+## 🔥 Highlights
+- Animated text
+- Beautiful UI
+- Responsive design
 
----
+## 📸 Screenshots
+![Screenshot](image-link)
 
-## ⚰️ Tech Stack
-```bash
-HTML | CSS | JavaScript
-Python | Git | GitHub
+## 🛠 Tools
+- HTML
+- CSS
+- JS
+
+## 🌐 Live Demo
+[Click Here](https://your-site.com)
